@@ -9,7 +9,7 @@
 ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/Penjelasan%20Kode.jpeg?raw=true)
 
 ## 3. Flowchart
-![alt text](?rahttps://github.com/rayabima/Embedded-System/blob/main/Media/Flow%20Chart.pngw=true)
+![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/Flow%20Chart.png?raw=true)
 
 
 ## 4. Hasil dan Pembahasan
