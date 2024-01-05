@@ -47,6 +47,6 @@
    
 3. Widget On/Off Adafruit
    
-   ![alt text]([https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/2.%20Dokumentasi.mp4](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/gif.gif)https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/gif.gif?raw=true)
+   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/gif.gif?raw=true)
 
    
