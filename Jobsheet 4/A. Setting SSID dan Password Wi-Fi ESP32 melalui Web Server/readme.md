@@ -13,6 +13,10 @@
 
 
 ## 4. Hasil dan Pembahasan
-https://github.com/Aisyahnurul/AisyahN-system-embedded/assets/147674662/963a2b49-379b-498a-b700-5c8c3b3a7a36
+## Jika gagal terhubung
+![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
 
-<p align="justify">EPS32 akan menampilkan daftar SSID Wi-Fi yang tersedia pada serial monitor. Program mencoba terhubung ke jaringan WiFi yang telah disimpan dalam EEPROM (non-volatile memory). Jika koneksi WiFi gagal atau tombol fisik pada pin D15 (GPIO15) ditekan, program akan memulai konfigurasi sebagai titik akses (Access Point) untuk mengonfigurasi ulang WiFi. Output dari percobaan ini yaitu wifikampus succeessfully.
+## Jika berhasil terhubung
+![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/4.%20Serial%20Monitor%20Setelah%20Berhasil%20Terhubung.jpeg?raw=true)
+
+<p align="justify">Setelah program dirun, maka akan ditampilkan IP Address pada serial monitor. Akses IP Address tersebut pada browser. Isikan SSID dan Password yang sesuai. Jika berhasil terhubung maka akan seperti gambar yang diatas
